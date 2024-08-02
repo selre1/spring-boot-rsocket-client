@@ -1,4 +1,4 @@
-Spring boot RSocket Client
+## Spring boot RSocket Client
 * HTTP 요청 -> R소켓 서버 연결 / 요청 / 응답 -> 클라이언트 전달
 
 ### 개발환경
