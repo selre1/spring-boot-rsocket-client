@@ -1,14 +1,14 @@
 Spring boot RSocket Client
 * HTTP 요청 -> R소켓 서버 연결 / 요청 / 응답 -> 클라이언트 전달
 
-###개발환경
+### 개발환경
 - spring boot 2.7.17
 - java 1.8
 - webFlux
 - Mongodb
 - docker
 
-###실행
+### 실행
 ----
 * 사전 실행 : 도커의 몽고디비 cmd  : docker run -p 27017-27019:27017-27019 mongo
 ----
