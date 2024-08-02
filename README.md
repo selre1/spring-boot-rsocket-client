@@ -5,7 +5,8 @@
 - spring boot 2.7.17
 - java 1.8
 - webFlux
-- Mongodb
+- Rsocket
+- Mongodb Reactive
 - docker
 
 ### 실행
